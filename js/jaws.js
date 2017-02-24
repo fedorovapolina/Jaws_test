@@ -251,14 +251,14 @@ function mapInit() {
 
 /*Polina Fedorova*/
 
-var clickCounter = 1;
+var click = true;
 function toggleNav(){
-    if (clickCounter % 2 != 0){
+    if (click == true){
         openNav();
-        clickCounter++;
+        click = false;
     } else {
         closeNav();
-        clickCounter--;
+        click = true;
     }
 }
 function openNav() {
