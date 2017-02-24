@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="39px" viewBox="0 0 48 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Analitics_ icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Serviсes-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Services_desktop" transform="translate(-841.000000, -519.000000)">
+            <g id="header" transform="translate(1.000000, 35.000000)">
+                <g id="6" transform="translate(840.000000, 484.000000)">
+                    <g id="Analitics_-icon">
+                        <g id="Group" fill="#00B5FF">
+                            <path d="M30.204,37.12992 C29.37216,36.51792 29.28336,35.5992 29.28336,35.5992 L28.97184,33.60528 L19.02864,33.60528 L18.71568,35.59824 C18.71568,35.59824 18.6288,36.51792 17.79696,37.12944 C16.9656,37.74144 16.30944,38.26656 16.9656,38.35536 C17.59776,38.4408 23.5608,38.36304 24.00048,38.35536 C24.44112,38.36304 30.40272,38.4408 31.03488,38.35536 C31.69008,38.26704 31.03392,37.74288 30.204,37.12992 Z" id="Shape"></path>
+                            <g transform="translate(7.680000, 5.320000)">
+                                <rect id="Rectangle-path" x="3.24048" y="11.7624" width="3.84" height="7.2"></rect>
+                                <rect id="Rectangle-path" x="11.40048" y="8.4024" width="3.84" height="10.56"></rect>
+                                <rect id="Rectangle-path" x="19.08096" y="11.7624" width="3.84" height="7.2"></rect>
+                                <rect id="Rectangle-path" x="26.28096" y="8.4024" width="3.84" height="10.56"></rect>
+                                <polygon id="Shape" points="13.75104 4.3512 21.5136 9.32352 32.24352 1.56 31.11744 0.0048 21.44832 7.00128 13.84992 2.1336 0.39648 9.05136 1.28496 10.75344"></polygon>
+                            </g>
+                            <path d="M46.08,0.0048 L1.92,0.0048 C0.85968,0.0048 0,0.86448 0,1.9248 L0,29.7648 C0,30.82512 0.85968,31.6848 1.92,31.6848 L46.08,31.6848 C47.14032,31.6848 48,30.82512 48,29.7648 L48,1.9248 C48,0.86448 47.14032,0.0048 46.08,0.0048 Z M45.12048,27.9248 L2.88048,27.9248 L2.88048,2.8848 L45.12048,2.8848 L45.12048,27.9248 Z" id="Shape"></path>
+                        </g>
+                        <rect id="Rectangle-2" x="0" y="0" width="48" height="48"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
