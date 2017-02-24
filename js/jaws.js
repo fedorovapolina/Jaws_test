@@ -264,7 +264,7 @@ function toggleNav(){
 function openNav() {
     document.getElementById("mySidenav").style.right = "0";
     document.getElementById("main").style.filter = "blur(5px)";
-    document.getElementById("no-effects").style.filter = "none";
+
 }
 
 function closeNav() {

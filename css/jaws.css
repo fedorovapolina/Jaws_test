@@ -2793,6 +2793,6 @@ input.form-input {
     transition: 0.5s;
     padding-top: 80px;
 }
-#no-effects{
-
+#main{
+    transition: 0.5s;
 }
